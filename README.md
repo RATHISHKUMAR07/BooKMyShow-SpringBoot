@@ -39,22 +39,41 @@ List the key features of your project. For example:
 
 Below are the available API endpoints for managing movie information:
 
-- **GET /BookMyShow/movies**: Retrieve a list of all movies
+<img src="https://github.com/RATHISHKUMAR07/BooKMyShow-SpringBoot/blob/springboot/BookMyShowApp/Output/Database.JPG">
+
+- **GET /BookMyShow/movies**: Retrieve a list of all movies.
+  
+<img src="https://github.com/RATHISHKUMAR07/BooKMyShow-SpringBoot/blob/springboot/BookMyShowApp/Output/getAll.JPG">
 
 - **GET /BookMyShow/movies/{id}**: Retrieve information about a specific movie.
+  
+<mg src="https://github.com/RATHISHKUMAR07/BooKMyShow-SpringBoot/blob/springboot/BookMyShowApp/Output/getId.JPG">
 
 - **PUT /BookMyShow/movies/{id}**: Update information for a specific movie.
+  
+<img src="https://github.com/RATHISHKUMAR07/BooKMyShow-SpringBoot/blob/springboot/BookMyShowApp/Output/update.JPG">
 
 - **DELETE /BookMyShow/movies/{id}**: Delete a specific movie.
+  
+<img src="https://github.com/RATHISHKUMAR07/BooKMyShow-SpringBoot/blob/springboot/BookMyShowApp/Output/delete.JPG">
 
 - **POST /BookMyShow/movies**: Add a new movie.
+  
+<img src="https://github.com/RATHISHKUMAR07/BooKMyShow-SpringBoot/blob/springboot/BookMyShowApp/Output/addMovie.JPG">
 
 - **GET /BookMyShow/movies/rating/{rating}**: Retrieve movies based on a specific rating.
+  
+<img src="https://github.com/RATHISHKUMAR07/BooKMyShow-SpringBoot/blob/springboot/BookMyShowApp/Output/rating.JPG">
 
 - **GET /BookMyShow/movies/genre/{genre}**: Retrieve movies of a specific genre.
+  
+- <img src="https://github.com/RATHISHKUMAR07/BooKMyShow-SpringBoot/blob/springboot/BookMyShowApp/Output/genre.JPG">
 
 - **GET /BookMyShow/movies/cost/{cost}**: Retrieve movies based on a specific cost.
+  
+<img src="https://github.com/RATHISHKUMAR07/BooKMyShow-SpringBoot/blob/springboot/BookMyShowApp/Output/cost.JPG">
 
+  
 ## Getting Started
 
 Follow these steps to set up and run the project locally.
