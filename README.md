@@ -93,7 +93,7 @@ Follow these steps to set up and run the project locally.
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/RATHISHKUMAR07/BooKMyShow-SpringBoot`
+1. Clone the repository: `git clone https://github.com/RATHISHKUMAR07/BookMyShow-SpringBoot`
 2. Configure the database connection in `application.properties`.
 3. Build the project using your preferred build tool.
 4. Run the application.
